@@ -4,6 +4,10 @@
 		{
 			"name": "learn-pytorch",
 			"active": true
+		},
+		{
+			"name": "chatbot-transformer-pytorch",
+			"active": true
 		}
 	]
 }
